@@ -1,7 +1,4 @@
-# Inventory_Admin_User
-
-
-# Prototype : Inventory Admin and UserSide
+# Prototype : Inventory Admin and User Side
 
 ## 🔗 Key Feature
 
