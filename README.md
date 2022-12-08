@@ -1,5 +1,7 @@
 # Prototype : Inventory Admin and User Side
 
+Self made inventory project where admin have accessability feature while user have some.
+
 ## 🔗 Key Feature
 
 - User can't access the the ```Add Product Page``` but admin can.
